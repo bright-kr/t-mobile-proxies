@@ -1,6 +1,6 @@
 # T-Mobile Proxies
 
-[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.co.kr/solutions/t-mobile-proxy) 
+[![Promo](https://github.com/bright-kr/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.co.kr/solutions/t-mobile-proxy) 
 
 ## Overview
 T-Mobile プロキシ로 매끄러운 スクレイピング을 경험해 보시기 바랍니다. 캐리어별 타게팅, 타의 추종을 불허하는 안정성, 빠른 응답 시간을 제공하도록 설계되었습니다.
